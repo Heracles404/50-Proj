@@ -79,5 +79,10 @@
     <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-14-animated-nav" target="_blank" rel="noopener noreferrer">Animated Nav</a></td>
     <td><a href="https://heracles404.github.io/50-days-proj/day-14-animated-nav" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-15-increment-counter" target="_blank" rel="noopener noreferrer">Animated Nav</a></td>
+    <td><a href="https://heracles404.github.io/50-days-proj/day-15-increment-counter" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
 </tbody>
 </table>
