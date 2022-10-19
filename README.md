@@ -1,13 +1,6 @@
 # 50-days-proj
 
 <table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project</th>
-      <th>Live Demo</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <th>1</th>
