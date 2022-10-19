@@ -81,8 +81,13 @@
   </tr>
   <tr>
     <td>15</td>
-    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-15-increment-counter" target="_blank" rel="noopener noreferrer">Animated Nav</a></td>
+    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-15-increment-counter" target="_blank" rel="noopener noreferrer">Increment Counter</a></td>
     <td><a href="https://heracles404.github.io/50-days-proj/day-15-increment-counter" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-16-drink-water" target="_blank" rel="noopener noreferrer">Drink Water</a></td>
+    <td><a href="https://heracles404.github.io/50-days-proj/day-16-drink-water" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
 </tbody>
 </table>
