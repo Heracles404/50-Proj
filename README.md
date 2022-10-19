@@ -11,8 +11,8 @@
 <tbody>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-1-expanding-cards" target="_blank" rel="noopener noreferrer">Expanding Cards</a></td>
-    <td><a href="https://heracles404.github.io/50-days-proj/day-1-expanding-cards" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-1-expanding-cards" target="_blank">Expanding Cards</a></td>
+    <td><a href="https://heracles404.github.io/50-days-proj/day-1-expanding-cards" target="_blank">Live Demo</a></td>
   </tr>
   <tr>
     <td>2</td>
