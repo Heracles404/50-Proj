@@ -6,22 +6,19 @@
 }
 
 :root{
-    --primary-color: #000;
+    --primary-color: #151d2a;
     --secondary-color: #fff;
+
 }
 
-html.dark{
+body.dark{
     --primary-color: #fff;
     --secondary-color: #333;
 }
 
-html.dark{
-    background-color: #111;
+body.dark{
+    background-color: #151d2a;
     color: var(--primary-color);
-}
-
-html{
-    transition: all 0.5s ease-in;
 }
 
 body {
@@ -34,14 +31,24 @@ body {
     margin: 0;
 }
 
+/*Theme Starts Here*/
+/*.theme {*/
+/*    height: 100vh;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    transition: .2s;*/
+/*}*/
+
 .toggle{
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
-    border: 0;
-    border-radius: 4px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 100px;
+    cursor: pointer;
+    position: center;
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    height: 60px;
+    border-radius: 50px;
+    transition: .2s;
 }
 
 .toggle:focus{
@@ -49,7 +56,79 @@ body {
     cursor: pointer;
 }
 
-.clock-container{
+.toggle i{
+    width: 50%;
+    line-height: 60px;
+    text-align: center;
+    font-size: 30px;
+    z-index: 1;
+}
+
+.toggle .ball{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    margin: 7.5px;
+    border-radius: 50%;
+    transition: .3s ease-out;
+}
+
+input{
+    display: none;
+}
+
+/*Light Mode*/
+.light{
+    background: #fafafa;
+}
+
+.light .toggle{
+    background: linear-gradient(145deg, #e1e1e1, #ffffff);
+    box-shadow: 3px 3px 4px #e6e6e6,
+    -3px -3px 4px #ffffff;
+}
+
+.light .toggle .bxs-sun{
+    color: #fafafa;
+}
+
+.light .toggle .moon{
+    color: #151d2a;
+}
+
+.light .toggle .ball{
+    background: #151d2a;
+}
+
+
+/*Dark Mode*/
+.dark{
+    background: #151d2a;
+}
+
+.dark .toggle{
+    background: #151d2a;
+    box-shadow: 3px 3px 4px #0e131b,
+    -3px -3px 4px #1c2739;
+}
+
+.dark .toggle .bx-sun{
+    color: #fafafa;
+}
+
+.dark .toggle .bxs-moon{
+    color: #151d2a;
+}
+
+.dark .toggle .ball{
+    background: #fafafa;
+    transform: translateX(60px);
+}
+/*Theme Ends Here*/
+
+
+/*Clock Starts Here*/
+.container{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -61,6 +140,7 @@ body {
     position: relative;
     width: 210px;
     height: 210px;
+    margin: 5rem;
     /*background-color: #f0f0f0;*/
     /*border-radius: 50%;*/
 }
@@ -139,6 +219,15 @@ body {
     transition: all 0.5s ease-in;
     font-size: 12px;
 }
+
+/*Clock Ends Here*/
+
+
+
+
+
+
+
 
 
 

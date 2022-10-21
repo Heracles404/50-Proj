@@ -2,22 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!--icon-->
-    <link rel="icon" href="#">
-    <!--title-->
-    <title>Theme Clock</title>
-    <!--style-->
+    <title>Toggle</title>
     <link rel="stylesheet" href="app.css">
-    <!--favicons-->
-    <script src="https://kit.fontawesome.com/d1612815b1.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css">
 </head>
-<body>
+<body class="light">
 
-<button class="toggle">Dark Mode</button>
 
-<div class="clock-container">
+
+<!--Clock-->
+<div class="container">
+    <!--Toggle Theme-->
+    <input type="checkbox" id="toggle">
+    <label class="toggle" for="toggle">
+        <i class="bx bxs-sun"></i>
+        <i class="bx bx-moon"></i>
+        <span class="ball"></span>
+    </label>
+
     <div class="clock">
         <div class="needle hour"></div>
         <div class="needle minute"></div>
@@ -29,6 +31,8 @@
     <div class="date"><span class="circle"></span></div>
 </div>
 
-<script src="script.js"></script>
+<!--JS for Theme Toggle-->
+<script type="text/javascript" src="script.js"></script>
+
 </body>
 </html>
