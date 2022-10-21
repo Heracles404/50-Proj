@@ -99,5 +99,10 @@
     <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-18-background-slider" target="_blank" rel="noopener noreferrer">Background Slider</a></td>
     <td><a href="https://heracles404.github.io/50-days-proj/day-18-background-slider" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
+ <tr>
+    <td>19</td>
+    <td><a href="https://github.com/Heracles404/50-days-proj/tree/main/day-19-theme-clock" target="_blank" rel="noopener noreferrer">Theme Clock</a></td>
+    <td><a href="https://heracles404.github.io/50-days-proj/day-19-theme-clock" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
 </tbody>
 </table>
