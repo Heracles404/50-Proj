@@ -119,5 +119,20 @@
     <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-22-drawing-app" target="_blank" rel="noopener noreferrer">Drawing App</a></td>
     <td><a href="https://heracles404.github.io/50-Proj/day-22-drawing-app" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
+ <tr>
+    <td>23</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-23-kinetic-loader" target="_blank" rel="noopener noreferrer">Kinetic Loader</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-23-kinetic-loader" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>24</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-24-content-placeholder" target="_blank" rel="noopener noreferrer">Content Placeholder</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-24-content-placeholder" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>25</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-25-sticky-navbar" target="_blank" rel="noopener noreferrer">Sticky Navbar</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-25-sticky-navbar" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
 </tbody>
 </table>
