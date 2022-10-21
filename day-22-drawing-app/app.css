@@ -1,0 +1,70 @@
+/*google font API*/
+@import url('https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,400;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas{
+    border: 2px solid steelblue;
+}
+
+.toolbox{
+    background-color: steelblue;
+    border: 1px solid slateblue;
+    display: flex;
+    width: 1204px;
+    padding: 1rem;
+}
+
+/*Call all children(items) in toolbox*/
+.toolbox > * {
+    background-color: #fff;
+    border: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    height: 50px;
+    width: 50px;
+    margin: .25rem;
+    padding: .25rem;
+}
+
+/*Calls the last child(item) in toolbox*/
+.toolbox > *:last-child{
+    margin-left: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
