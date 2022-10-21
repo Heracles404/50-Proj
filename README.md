@@ -112,7 +112,12 @@
  <tr>
     <td>21</td>
     <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-21-drag-n-drop" target="_blank" rel="noopener noreferrer">Drag 'N Drop</a></td>
-    <td><a href="https://heracles404.github.io/50-Proj/day-20-btn-ripple" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-21-drag-n-drop" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>22</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-22-drawing-app" target="_blank" rel="noopener noreferrer">Drawing App</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-22-drawing-app" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
 </tbody>
 </table>
