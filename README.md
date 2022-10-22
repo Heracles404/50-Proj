@@ -134,5 +134,131 @@
     <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-25-sticky-navbar" target="_blank" rel="noopener noreferrer">Sticky Navbar</a></td>
     <td><a href="https://heracles404.github.io/50-Proj/day-25-sticky-navbar" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
   </tr>
+ <tr>
+    <td>26</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-26-double-vertical-slider" target="_blank" rel="noopener noreferrer">Double Vertical Slider</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-26-double-vertical-slider" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+
+ <tr>
+    <td>27</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-27-toast-notification" target="_blank" rel="noopener noreferrer">Toast Notification</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-27-toast-notification" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>28</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-28-github-profiles" target="_blank" rel="noopener noreferrer">Github Profiles</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-28-github-profiles" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>29</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-29-double-heart-click" target="_blank" rel="noopener noreferrer">Double Heart Click</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-29-double-heart-click" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>30</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-30-auto-text-effect" target="_blank" rel="noopener noreferrer">Auto Text Effect</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-30-auto-text-effect" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>31</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-31-password-generator" target="_blank" rel="noopener noreferrer">Password Generator</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-31-password-generator" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>32</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-32-good-cheap-fast-checkboxes" target="_blank" rel="noopener noreferrer">Good Cheap Fast Textboxes</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-32-good-cheap-fast-checkboxes" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>33</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-33-notes-app" target="_blank" rel="noopener noreferrer">Notes App</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-33-notes-app" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>34</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-34-animated-countdown" target="_blank" rel="noopener noreferrer">Animated Countdown</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-34-animated-countdown" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>35</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-35-image-carousel" target="_blank" rel="noopener noreferrer">Image Carousel</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-35-image-carousel" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>36</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-36-hoverboard" target="_blank" rel="noopener noreferrer">Hoverboard</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-36-hoverboard" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+    <tr>
+    <td>37</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-37-pokedex" target="_blank" rel="noopener noreferrer">Pokedex</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-37-pokedex" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>38</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-38-mobile-tab-navigation" target="_blank" rel="noopener noreferrer">Mobile Tab Navigation</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-38-mobile-tab-navigation" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  </tr>
+ <tr>
+    <td>39</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-39-password-strength-background" target="_blank" rel="noopener noreferrer">Password Strength Background</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-39-password-strength-background" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>40</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-40-3d-background-boxes" target="_blank" rel="noopener noreferrer">3D Background Boxes</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-40-3d-background-boxes" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>41</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-41-verify-account-UI" target="_blank" rel="noopener noreferrer">Verify Account UI</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-41-verify-account-UI" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>42</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-42-live-user-filter" target="_blank" rel="noopener noreferrer">Live User Filter</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-42-live-user-filter" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>43</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-43-feedback-UI-design" target="_blank" rel="noopener noreferrer">Feedback UI Design</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-43-feedback-UI-design" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>44</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-44-custom-range-slider" target="_blank" rel="noopener noreferrer">Custom Range Slider</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-44-custom-range-slider" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>45</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-45-netflix-navigation" target="_blank" rel="noopener noreferrer">Netflix Navigation</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-45-netflix-navigation" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>46</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-46-quiz-app" target="_blank" rel="noopener noreferrer">Quiz App</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-46-quiz-app" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>47</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-47-testimonial-box-switcher" target="_blank" rel="noopener noreferrer">Testimonial Box Switcher</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-47-testimonial-box-switcher" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>48</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-48-random-image-feed" target="_blank" rel="noopener noreferrer">Random Image Feed</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-48-random-image-feed" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>49</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-49-todo-list" target="_blank" rel="noopener noreferrer">To Do List</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-49-todo-list" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
+ <tr>
+    <td>50</td>
+    <td><a href="https://github.com/Heracles404/50-proj/tree/main/day-50-insect-catch-game" target="_blank" rel="noopener noreferrer">Insect Catch Game</a></td>
+    <td><a href="https://heracles404.github.io/50-Proj/day-50-insect-catch-game" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+ </tr>
 </tbody>
 </table>
