@@ -40,6 +40,7 @@ canvas{
     width: 50px;
     margin: .25rem;
     padding: .25rem;
+    cursor: pointer;
 }
 
 /*Calls the last child(item) in toolbox*/
