@@ -1,12 +1,18 @@
 /*google font API*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
 
+:root{
+    --primary-color: #424874;
+    --secondary-color: #D7E9F7;
+    --color: #F9F9F9;
+}
+
 * {
     box-sizing: border-box;
 }
 
 body {
-    background-color: #6a99a6;
+    background-color: var(--secondary-color);
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -14,11 +20,12 @@ body {
     padding-top: 3rem;
 }
 
-.add {
+.add,
+.save{
     position: fixed;
     top: 1rem;
     right: 1rem;
-    background-color: #9ec862;
+    background-color: var(--primary-color);
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -26,8 +33,13 @@ body {
     cursor: pointer;
 }
 
+.save{
+    position: fixed;
+    right: 8rem;
+}
+
 .note {
-    background-color: #fff;
+    background-color: var(--color);
     box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
     margin: 30px 20px;
     height: 400px;
@@ -35,7 +47,7 @@ body {
 }
 
 .note .tools {
-    background-color: #9ec862;
+    background-color: var(--primary-color);
     display: flex;
     justify-content: flex-end;
     padding: 0.5rem;

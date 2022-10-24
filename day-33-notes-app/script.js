@@ -1,14 +1,16 @@
 const addBtn = document.getElementById('add')
+const saveBtn = document.getElementById('save')
 
+// Fetch notes from local browser storage
 const notes = JSON.parse(localStorage.getItem('notes'))
-
-addBtn.addEventListener('click', () => addNewNote())
 
 if(notes){
     notes.forEach(note => addNewNote(note))
 }
 
 // Creates new sticky note
+addBtn.addEventListener('click', () => addNewNote())
+
 function addNewNote(text = ''){
     const note = document.createElement('div')
     note.classList.add('note')
@@ -57,6 +59,10 @@ function addNewNote(text = ''){
 
 }
 
+// Saves All Changes
+saveBtn.addEventListener('click', () => updateLS())
+
+// Updates Notes
 function updateLS(){
     const notesText= document.querySelectorAll('textarea')
 
