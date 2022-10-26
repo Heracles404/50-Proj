@@ -11,5 +11,6 @@
     <orderEntry type="library" name="boxicons" level="application" />
     <orderEntry type="library" name="axios" level="application" />
     <orderEntry type="library" name="marked" level="application" />
+    <orderEntry type="library" name="tailwindcss" level="application" />
   </component>
 </module>
